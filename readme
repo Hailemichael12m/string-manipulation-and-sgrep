@@ -1,0 +1,14 @@
+Name: Hailemichael Molla
+ID: 20190771
+Assignment number: Two
+
+This assignment helped me practice pointer notations and arithmetics as well as string manipulations. While working in this assignment,
+I have recieved help from course professors, TAs, fellow classmates and my seniors. The interaction in the campuswire helped me solve some
+problems in my code. I recieved much help from my senior (Amanuel Assefa) during the debugging of my code. I used pointer notations for the 
+entire part 1 of the assignment so as to get extra credits. In the function StrToLong, I used the code we are given in the assignment 
+ducumentaion for number string to int value conversion. I spent roughly 25 hours on this assignment. 
+
+My answer to the question "Is it possible for StrCopy to call assert to verify that the destination memory area specified by the caller
+is large enough? Explain" is:
+No it is not possible. This is because we only have the pointer of the string and there is no way to determine the length of the string 
+based only on the pointer. 
